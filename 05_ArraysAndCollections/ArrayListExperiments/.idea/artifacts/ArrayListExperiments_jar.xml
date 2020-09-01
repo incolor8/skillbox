@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ArrayListExperiments:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ArrayListExperiments_jar</output-path>
+    <root id="archive" name="ArrayListExperiments.jar">
+      <element id="module-output" name="ArrayListExperiments" />
+    </root>
+  </artifact>
+</component>

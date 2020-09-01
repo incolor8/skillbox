@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="airport-1.0.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/com/airport-1.0.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/com/airport-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/com/airport-1.0.1.jar!/com/skillbox/airport" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9d8b1e91-eb7e-4537-96d7-b37472e80c83" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StringExperiments/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../StringExperiments/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StringExperiments/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../StringExperiments/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../StringExperiments/src/Loader.java" beforeDir="false" afterPath="$PROJECT_DIR$/../StringExperiments/src/Loader.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1ZDxafibvjVlzOwEMPPRmS8tWsj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551865119735" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../StringExperiments" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="IntegerExperiments" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task id="LOCAL-00001" summary="module4 - sumDigits">
+      <created>1584386510511</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584386510511</updated>
+    </task>
+    <task id="LOCAL-00002" summary="module4 - sumDigits">
+      <created>1584386540946</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1584386540946</updated>
+    </task>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d8b1e91-eb7e-4537-96d7-b37472e80c83" name="Default Changelist" comment="" />
+      <created>1584387532007</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584387532007</updated>
+    </task>
+    <task id="LOCAL-00003" summary="module4 - sumDigits">
+      <created>1584388863839</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1584388863839</updated>
+    </task>
+    <task id="LOCAL-00004" summary="module4 - sumDigits">
+      <created>1584393251322</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1584393251322</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="module4 - sumDigits" />
+    <option name="LAST_COMMIT_MESSAGE" value="module4 - sumDigits" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="328" y="113" key="CommitChangelistDialog2" timestamp="1584390375813">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="328" y="113" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1584390375813" />
+    <state x="638" y="261" key="FileChooserDialogImpl" timestamp="1584733272628">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="638" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1584733272628" />
+    <state width="1340" height="286" key="GridCell.Tab.0.bottom" timestamp="1584733273713">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="286" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584733273713" />
+    <state width="1340" height="286" key="GridCell.Tab.0.center" timestamp="1584733273712">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="286" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584733273712" />
+    <state width="1340" height="286" key="GridCell.Tab.0.left" timestamp="1584733273712">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="286" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584733273712" />
+    <state width="1340" height="286" key="GridCell.Tab.0.right" timestamp="1584733273713">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1340" height="286" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584733273713" />
+    <state x="449" y="235" key="MultipleFileMergeDialog" timestamp="1584388908264">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="449" y="235" key="MultipleFileMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584388908264" />
+    <state x="329" y="252" key="Vcs.Push.Dialog.v2" timestamp="1584388871764">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="329" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1584388871764" />
+    <state x="433" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1584466105849">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="433" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1584466105849" />
+    <state x="240" y="126" key="new project wizard" timestamp="1584466183511">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="240" y="126" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1584466183511" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
